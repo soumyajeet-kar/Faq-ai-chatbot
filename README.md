@@ -1,4 +1,5 @@
-# 🤖 AI FAQ Chatbot (Python + NLP + Streamlit)
+# 🤖 AI FAQ Chatbot (INDIA)
 
 A beginner-friendly FAQ chatbot using TF-IDF + Cosine Similarity.  
-Built with Python, scikit-learn, and Streamlit.
+
+Built with Python, fuzzywuzzy[speedup], and Streamlit.
